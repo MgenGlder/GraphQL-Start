@@ -17,3 +17,4 @@ app.use('/graphql', graphqlHTTP({
     graphql: true
 }));
 app.listen(4000, () => console.log('Now browse to localhost:4000/graphql'));
+// A simple graphql server with one endpoint /graphql
