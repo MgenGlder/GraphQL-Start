@@ -1,7 +1,9 @@
-# GraphQL-Start
-Some basic GraphQL fiddling
+## Installation
+```javascript
+npm install
+```
 
-# Running this thing
-```javscript
-node server.js
+## Running
+```javascript
+npm run serve
 ```
